@@ -17,6 +17,8 @@
 - `🌐` **`HandSightTranslator`**<br>
 \\___[ API that translates sign language to English<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Computer Vision` ]
+
+
 ⭐ **Certifications**: `IBM Cognitive Class`, `Google TensorFlow`,`edX`
 
 📝 **Blog**: Exploring the realms of machine learning, AI, and the enchanting world of mathematics on my blog. Stay tuned for my latest post: "Demystifying Machine Learning Algorithms".
