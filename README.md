@@ -17,15 +17,7 @@
 - `🌐` **`HandSightTranslator`**<br>
 \\___[ API that translates sign language to English<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Computer Vision` ]
-
-⭐ **Skills**: 
-![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/ai-%2302569B.svg?style=for-the-badge&logo=ai&logoColor=white)
-![](https://img.shields.io/badge/desktop-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/automation-%23239120.svg?style=for-the-badge&logo=robot&logoColor=white)
+⭐ **Certifications**: `IBM Cognitive Class`, `Google TensorFlow`,`edX`
 
 📝 **Blog**: Exploring the realms of machine learning, AI, and the enchanting world of mathematics on my blog. Stay tuned for my latest post: "Demystifying Machine Learning Algorithms".
 
