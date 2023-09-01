@@ -24,4 +24,4 @@
 📝 **Blog**: Exploring the realms of machine learning, AI, and the enchanting world of mathematics on my blog. Stay tuned for my latest post: "Demystifying Machine Learning Algorithms".
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=python,cpp,cs,mysql,aiscript,linux,pytorch,bash,tensorflow)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,cpp,rust,mysql,aiscript,linux,pytorch,bash,tensorflow,javascrip)](https://skillicons.dev)
