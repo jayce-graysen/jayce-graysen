@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;Im+jayce+graysen+an+ai+developer;thank+for+stoppping+by%2C+follow+my+other+social)](https://git.io/typing-svg)
 
 
-💬 **Me**: AI enthusiast and developer merging the realms of desktop applications and automation. Proficient in Python, C++, C#, and MySQL. My passion lies in creating AI-powered solutions and sharing the magic of machine learning and mathematics behind it.
+💬 **Me**: Full Stack Web Developer specializing in server-side development with the MERN , MEAN and LAMP stacks. Proficient in JavaScript, TypeScript, React, and backend technologies related to these stacks.
 
 🌱 **Projects**:
 
