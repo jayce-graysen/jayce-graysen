@@ -26,4 +26,4 @@
 📝 Blog: Exploring the world of full-stack development, web technologies, and the fascinating realms of mathematics on my blog. Stay tuned for my latest post: "Optimizing Full-Stack Web Applications for Maximum Efficiency."
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,mysql,django,postgresql,aws,azure,gcp,bash,linux,)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=javascript,nodejs,python,mysql,django,postgresql,aws,azure,gcp)](https://skillicons.dev)
