@@ -23,7 +23,4 @@
  **Certifications**:  `GCS (Google Cloud Platform)`, `AWS (Amazon Web Services)`, `Azure (Microsoft Azure)`, and `Harvard University Professional Certificate in Computer Science for Web Programming and Computer Science for Machine Learning`.
 
 
- Blog: Exploring the world of full-stack development, web technologies, and the fascinating realms of mathematics on my blog. Stay tuned for my latest post: "Optimizing Full-Stack Web Applications for Maximum Efficiency."
-
-
 [![](https://skillicons.dev/icons?i=javascript,nodejs,python,mysql,django,postgresql,aws,azure,gcp)](https://skillicons.dev)
